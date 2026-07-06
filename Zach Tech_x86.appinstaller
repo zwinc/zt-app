@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
 	Uri="https://zwinc.github.io/zt-app/Zach Tech_x86.appinstaller"
-	Version="1.0.6.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	Version="1.0.7.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
 	<MainPackage
 		Name="e7af07f6-8d1d-4373-a59e-901cd9e541e6"
-		Version="1.0.6.0"
+		Version="1.0.7.0"
 		Publisher="CN=Zach Tech"
-		Uri="https://zwinc.github.io/zt-app/Zach Tech_1.0.6.0_x86_Test/Zach Tech_1.0.6.0_x86.msix"
+		Uri="https://zwinc.github.io/zt-app/Zach Tech_1.0.7.0_x86_Test/Zach Tech_1.0.7.0_x86.msix"
 		ProcessorArchitecture="x86" />
 	<Dependencies>
 		<Package
 			Name="Microsoft.WindowsAppRuntime.1.8"
 			Publisher="CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US"
 			ProcessorArchitecture="x86"
-			Uri="https://zwinc.github.io/zt-app/Zach Tech_1.0.6.0_x86_Test/Dependencies/x86/Microsoft.WindowsAppRuntime.1.8.msix"
+			Uri="https://zwinc.github.io/zt-app/Zach Tech_1.0.7.0_x86_Test/Dependencies/x86/Microsoft.WindowsAppRuntime.1.8.msix"
 			Version="8000.731.1532.0" />
 	</Dependencies>
 	<UpdateSettings>
